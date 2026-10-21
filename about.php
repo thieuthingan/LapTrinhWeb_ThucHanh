@@ -17,8 +17,8 @@
 <div class="card">
     <h1>THÔNG TIN CÁ NHÂN</h1>
     <p><span class="info-label">Họ và tên:</span> Thiều Thị Ngấn </p>
-    <p><span class="info-label">Mã sinh viên:</span> 224001737224001737</p>
-    <p><span class="info-label">Lớp:</span> Toán ứng dụng d2024d2024 </p>
+    <p><span class="info-label">Mã sinh viên:</span> 224001737</p>
+    <p><span class="info-label">Lớp:</span> Toán ứng dụng d2024 </p>
     <p><span class="info-label">Học phần:</span> Lập trình Web</p>
 
     <hr>
